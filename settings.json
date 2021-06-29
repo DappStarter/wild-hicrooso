@@ -1,0 +1,9 @@
+{
+    "name": "Demo2",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-pack_nft": true
+    }
+}
